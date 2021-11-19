@@ -1,8 +1,11 @@
 {
   "name": "bootcamp-starter",
   "displayName": "Bootcamp Starter",
+  "publisher": "ByronFerguson",
   "description": "Collection of useful extensions for coding bootcamp students",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/byronferguson/bootcamp-starter",
   "engines": {
     "vscode": "^1.62.0"
   },
