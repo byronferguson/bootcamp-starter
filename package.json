@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp-starter",
+  "displayName": "Bootcamp Starter",
+  "description": "Collection of useful extensions for coding bootcamp students",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "mikestead.dotenv",
+    "kisstkondoros.vscode-gutter-preview",
+    "xabikos.JavaScriptSnippets",
+    "albert.TabOut",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "ritwickdey.LiveServer",
+    "MS-vsliveshare.vsliveshare",
+    "christian-kohler.npm-intellisense"
+  ]
+}
