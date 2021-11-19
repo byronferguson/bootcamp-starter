@@ -26,6 +26,8 @@
     "formulahendry.auto-close-tag",
     "ritwickdey.LiveServer",
     "MS-vsliveshare.vsliveshare",
-    "christian-kohler.npm-intellisense"
+    "christian-kohler.npm-intellisense",
+    "yzhang.markdown-all-in-one",
+    "Gruntfuggly.todo-tree"
   ]
 }
